@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://easysheetsps.netlify.app/sitemap.xml
+Sitemap: https://easysheetsph.netlify.app/sitemap.xml
