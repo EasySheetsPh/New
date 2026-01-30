@@ -1,0 +1,11 @@
+# Robots.txt for Easy Sheets
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*.pdf$
+
+# Sitemap location
+Sitemap: https://easysheetsph.netlify.app/sitemap.xml
+
+# Crawl delay (optional, helps prevent overload)
+Crawl-delay: 1
